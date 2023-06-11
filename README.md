@@ -9,8 +9,6 @@ I am a full stack developer with around 2 years of experience. I am proficient i
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Mayur Lalwani](http://mayurlalwani.com/)
 * ✉️  You can contact me at [lalwanimayur06@gmail.com](mailto:lalwanimayur06@gmail.com)
-* 🚀  I'm currently working on [Chat app](http://-)
-* 🧠  I'm learning French
 * 🤝  I'm open to collaborating on Open source projects
 
 ### Skills
