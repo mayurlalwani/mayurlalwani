@@ -4,7 +4,7 @@ Hi 👋 My name is Mayur Lalwani
 Full Stack Developer
 --------------------
 
-I am a full stack developer with around 2 years of experience. I am proficient in JavaScript, React, Node and MySql. I have basic knowledge of Nextjs, NestJs and MongoDb.
+I am a full stack developer with around 3 years of experience. I am proficient in JavaScript, React, Node and MySql. I have basic knowledge of Nextjs, NestJs and MongoDb.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Mayur Lalwani](http://mayurlalwani.com/)
