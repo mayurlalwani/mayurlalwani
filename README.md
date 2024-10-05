@@ -7,7 +7,7 @@ Full Stack Developer
 I am a full stack developer with around 3 years of experience. I am proficient in JavaScript, React, Node and MySql. I have basic knowledge of Nextjs, NestJs and MongoDb.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Mayur Lalwani](http://mayurlalwani.com/)
+* 🖥️  See my portfolio at [Mayur Lalwani](https://www.mayurlalwani.com/)
 * ✉️  You can contact me at [lalwanimayur06@gmail.com](mailto:lalwanimayur06@gmail.com)
 * 🤝  I'm open to collaborating on Open source projects
 
