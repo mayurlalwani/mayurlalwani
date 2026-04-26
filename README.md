@@ -4,12 +4,20 @@ Hi 👋 My name is Mayur Lalwani
 Full Stack Developer
 --------------------
 
-I am a full-stack developer passionate about creating impactful digital products.I believe in writing clean, efficient code and continuously evolving my skill set.
+I am a full-stack developer passionate about creating impactful digital products. I believe in writing clean, efficient code and continuously evolving my skill set. Lately, I have been exploring AI-powered applications and integrating LLMs like Claude into real-world products.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Mayur Lalwani](https://www.mayurlalwani.com/)
-* ✉️  You can contact me at [lalwanimayur06@gmail.com](mailto:lalwanimayur06@gmail.com)
-* 🤝  I'm open to collaborating on Open source projects
+* I'm based in India
+* See my portfolio at [Mayur Lalwani](https://www.mayurlalwani.com/)
+* You can contact me at [lalwanimayur06@gmail.com](mailto:lalwanimayur06@gmail.com)
+* I'm open to collaborating on Open source projects
+
+### What I'm Currently Building
+
+* **Personal Finance Tracker** -- A TypeScript app to track and visualize personal finances
+* **Dentist App** -- A full-featured TypeScript app for dental practice management
+* **AI Copilot** -- An AI-assisted productivity tool built with TypeScript
+* **Portfolio (Next.js)** -- Revamped personal portfolio deployed on Vercel ([Live](https://portfolio-nextjs-seven-beta.vercel.app/))
+* **Interactive CV** -- AI-powered CV with Claude API chat integration ([cv-santiago](https://github.com/mayurlalwani/cv-santiago))
 
 ### Skills
 
@@ -28,6 +36,7 @@ I am a full-stack developer passionate about creating impactful digital products
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 </p>
 
 
