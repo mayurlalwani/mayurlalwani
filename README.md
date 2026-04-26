@@ -11,14 +11,6 @@ I am a full-stack developer passionate about creating impactful digital products
 * You can contact me at [lalwanimayur06@gmail.com](mailto:lalwanimayur06@gmail.com)
 * I'm open to collaborating on Open source projects
 
-### What I'm Currently Building
-
-* **Personal Finance Tracker** -- A TypeScript app to track and visualize personal finances
-* **Dentist App** -- A full-featured TypeScript app for dental practice management
-* **AI Copilot** -- An AI-assisted productivity tool built with TypeScript
-* **Portfolio (Next.js)** -- Revamped personal portfolio deployed on Vercel ([Live](https://portfolio-nextjs-seven-beta.vercel.app/))
-* **Interactive CV** -- AI-powered CV with Claude API chat integration ([cv-santiago](https://github.com/mayurlalwani/cv-santiago))
-
 ### Skills
 
 <p align="left">
